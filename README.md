@@ -1,4 +1,4 @@
-## TODO APP
+## Todo App
 
 Today, I am going to build todo app.
 It has following features -
