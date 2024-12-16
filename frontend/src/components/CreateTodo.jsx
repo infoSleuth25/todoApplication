@@ -18,7 +18,6 @@ export function CreateTodo(){
         })
         .then(async function(res){
             const json = await res.json();
-            alert("Todo Added");
         })
     }
 
